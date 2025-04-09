@@ -34,5 +34,9 @@ button {
     cursor: pointer;
 }
 .center {
-    background-color: red; /* TEMP for debug */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border: 2px dashed red; /* 🔍 for debugging */
 }
